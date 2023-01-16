@@ -1,5 +1,4 @@
 # SparkSQL DataFrame Operations
---
 
 **Input:** 4 CSV Files </br>
 **Ouput:** Answers to the following questions should get printed on the console </br>
