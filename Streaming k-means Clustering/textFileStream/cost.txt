@@ -1,0 +1,5 @@
+decayRate: 1.0	Cost = [272033178498.8602]
+decayRate: 0.75	Cost = [271670520701.86234]
+decayRate: 0.5	Cost = [271302327366.1055]
+decayRate: 0.25	Cost = [271872174783.54074]
+decayRate: 0.0	Cost = [271851727777.00974]
